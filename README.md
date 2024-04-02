@@ -12,9 +12,7 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -71,6 +69,6 @@ I will continue to do these challenges to grow. Maybe I will redo this one somet
 
 ## Author
 
-- Website - [Stevotronic](https://www.your-site.com)
+- Website - [Stevotronic](https://stevotronic.github.io/PortfolioWebsite/)
 - Frontend Mentor - [@Stevotronic](https://www.frontendmentor.io/profile/Stevotronic)
 
